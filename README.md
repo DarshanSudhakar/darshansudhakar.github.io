@@ -6,7 +6,7 @@
 </p> 
 <p align="center">Winforms and Web Developer</p>
 
-[![Build Status](https://travis-ci.org/anuraghazra/anuraghazra.github.io.svg?branch=develop)](https://travis-ci.org/anuraghazra/anuraghazra.github.io)
+[![Build Status](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io.svg?branch=develop)](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io)
 ![GitHub](https://img.shields.io/github/license/darshansudhakar/darshansudhakar.github.io)
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
 
