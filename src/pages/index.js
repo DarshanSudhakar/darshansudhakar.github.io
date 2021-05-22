@@ -18,9 +18,9 @@ const IndexPage = () => (
     <Home />
     <About />
     <Skills />
-    <Projects />
-    <CreativeCoding />
-    <Concepts />
+    {/* <Projects /> */}
+    {/* <CreativeCoding /> */}
+    {/* <Concepts /> */}
     <Contact />
   </Layout>
 );
