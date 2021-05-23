@@ -8,7 +8,7 @@ export const HeroCardWrapper = styled.div`
     forwards;
 
   @media ${props => props.theme.media.tablet} {
-    /* releated to "things i love" section bug */
+    /* related to "things i do" section bug */
     margin-top: 25px;
   }
 `;

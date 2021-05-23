@@ -18,10 +18,9 @@ const ThingsILove = () => (
       <CardIcon>
         <FontAwesomeIcon icon={['fab','windows']} />
       </CardIcon>
-      <CardTitle>FrontEnd</CardTitle>
+      <CardTitle>Front End</CardTitle>
       <CardText>
-        I'm more front end focused and love to work with Reactjs as well as pure
-        HTML, CSS.
+        I'm work more on front end technologies like Winforms and WPF.
       </CardText>
     </Card>
 
@@ -31,8 +30,8 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>C# and .NET</CardTitle>
       <CardText>
-        I just extremely love javascript, I can’t even express how much I love
-        javascript with just a few lines.
+        I program in C# using .NET framework.
+        But I am open to all programing language and framework.
       </CardText>
     </Card>
 
@@ -42,8 +41,7 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>Standardized Coding</CardTitle>
       <CardText>
-        I love creative coding because I do both coding & designing. making
-        beautiful art with code is very satisfying to me.
+        I believe in code design. Using best practices and design principles is what I crave for.
       </CardText>
     </Card>
   </Flex>
@@ -70,7 +68,7 @@ const Home = () => {
               <IconLink
                 label="github"
                 icon={['fab', 'github']}
-                href="//github.com/anuraghazra"
+                href="//github.com/darshansudhakar"
               />
               <IconLink
                 label="twitter"
@@ -78,11 +76,11 @@ const Home = () => {
                 href="//twitter.com/SudhakarDarshan"
               />
               {/* TODO : Add a URL for codepen or change to new icon */}
-              <IconLink
+              {/* <IconLink
                 label="codepen"
                 icon={['fab', 'codepen']}
                 href="//codepen.io/"
-              />
+              /> */}
             </div>
           </div>
         </div>
@@ -90,9 +88,9 @@ const Home = () => {
         <HeroCard />
       </Intro>
 
-      {/* Things I LOVE */}
+      {/* Things I do */}
       <PageHeader style={{ marginBottom: 30 }}>
-        Things I love <i className="fas fa-heart" />
+        Things I do <i className="fas fa-heart" />
       </PageHeader>
       <ThingsILove />
     </HomeWrapper>

@@ -3,7 +3,6 @@ import styled from 'styled-components';
 
 import PageHeader from '@src/components/common/PageHeader';
 import { Hidden } from 'react-grid-system';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Flex from '@src/components/common/Flex';
 
 import { Parallax, ParallaxProvider } from 'react-scroll-parallax';
