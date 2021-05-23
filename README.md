@@ -8,10 +8,8 @@
 
 [![Build Status](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io.svg?branch=develop)](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io)
 ![GitHub](https://img.shields.io/github/license/darshansudhakar/darshansudhakar.github.io)
-![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
+![Website]()
 
-
-![Darshan Sudhakar Site Preview](./src/static/screenshot.png)
 
 Strained eyes? There's DarkMode too :p
 
@@ -28,7 +26,7 @@ _NOTE: The default branch for this repo is `develop`, when you push or pull make
 Fork the repository. then clone the repo locally by doing -
 
 ```bash
-git clone https://github.com/anuraghazra/anuraghazra.github.io.git
+git clone https://github.com/darshansudhakar/darshansudhakar.github.io.git
 ```
 
 ### Step 2: Install Dependencies
@@ -36,7 +34,7 @@ git clone https://github.com/anuraghazra/anuraghazra.github.io.git
 cd into the directory
 
 ```bash
-cd anuraghazra.github.io
+cd darshansudhakar.github.io
 ```
 
 install all the dependencies
@@ -51,40 +49,6 @@ Then start the development Server
 npm run develop
 ```
 After running the development server the site should be running on https://localhost:8000
-
-
-## :open_file_folder: What's inside?
-
-A quick look at the folder structure of this project.
-
-    .
-    ├── content
-    │   ├───blog
-    │   ├───case-studies
-    │   └───json
-    ├── cypress
-    ├── plugins
-    └── src
-        ├───components
-        │   ├───About
-        │   ├───Blog
-        │   ├───common
-        │   ├───Concepts
-        │   ├───Contact
-        │   ├───CreativeCoding
-        │   ├───Home
-        │   ├───Layout
-        │   │   └───Navbar
-        │   ├───Lightbox
-        │   ├───Projects
-        │   └───Skills
-        ├───hooks
-        ├───pages
-        ├───static
-        │   └───images
-        ├───styles
-        └───templates
-
 
 ## Tools Used
 
