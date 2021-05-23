@@ -8,10 +8,8 @@
 
 [![Build Status](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io.svg?branch=develop)](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io)
 ![GitHub](https://img.shields.io/github/license/darshansudhakar/darshansudhakar.github.io)
-![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Fanuraghazra.github.io)
+![Website]()
 
-
-![Darshan Sudhakar Site Preview](./src/static/screenshot.png)
 
 Strained eyes? There's DarkMode too :p
 
@@ -51,8 +49,6 @@ Then start the development Server
 npm run develop
 ```
 After running the development server the site should be running on https://localhost:8000
-
-
 
 ## Tools Used
 
