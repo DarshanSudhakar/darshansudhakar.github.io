@@ -75,12 +75,12 @@ const Home = () => {
                 icon={['fab', 'twitter']}
                 href="//twitter.com/SudhakarDarshan"
               />
-              {/* TODO : Add a URL for codepen or change to new icon */}
-              {/* <IconLink
-                label="codepen"
-                icon={['fab', 'codepen']}
-                href="//codepen.io/"
-              /> */}
+              
+              <IconLink
+                label="linkedIn"
+                icon={['fab', 'linkedin']}
+                href="//linkedin.com/in/darshanbangaloresudhakar/"
+              />
             </div>
           </div>
         </div>

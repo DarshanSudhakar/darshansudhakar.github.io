@@ -5,20 +5,21 @@ const meta = {
     'Darshan Sudhakar - Creative frontEnd web developer who loves javascript and modern web technologies.',
   siteTitleAlt: 'Darshan Sudhakar',
   siteShortName: 'Darshan Sudhakar',
-  siteUrl: 'https://anuraghazra.github.io', // No trailing slash!
+  siteUrl: 'https://darshansudhakar.github.io', // No trailing slash!
 };
 
 const social = {
   siteLogo: `src/static/logo.svg`,
   siteBanner: `${meta.siteUrl}/images/social-banner.png`,
-  twitter: '@anuraghazru',
+  twitter: '@SudhakarDarshan',
 };
 
 const website = {
   ...meta,
   ...social,
-  disqusShortName: 'anuraghazra',
-  googleAnalyticsID: 'UA-119972196-1',
+  // TODO : darshan Add google analytics
+  disqusShortName: '',
+  googleAnalyticsID: '',
   // Manifest
   themeColor: '#6D83F2',
   backgroundColor: '#6D83F2',
