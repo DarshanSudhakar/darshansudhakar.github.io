@@ -56,9 +56,9 @@ export const CodeCard = () => {
       <pre>
         6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.skills = ["<b>DESIGN</b>", "<b>DEV</b>" , "<b>Desktop</b>"];
       </pre>
-      <pre onClick={changeText}>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.age = {text}</pre>
-      <pre>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
-      <pre>8&nbsp;&nbsp;{'}'}</pre>
+      <pre onClick={changeText}>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.age = {text}</pre>
+      <pre>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
+      <pre>9&nbsp;&nbsp;{'}'}</pre>
     </CodeCardWrapper>
   );
 };
