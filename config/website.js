@@ -1,6 +1,6 @@
 const meta = {
   // Metadata
-  siteTitle: 'Darshan Sudhakar - Creative Web Designer',
+  siteTitle: 'Darshan Sudhakar - Desktop Developer',
   siteDescription:
     'Darshan Sudhakar - Creative frontEnd web developer who loves javascript and modern web technologies.',
   siteTitleAlt: 'Darshan Sudhakar',
