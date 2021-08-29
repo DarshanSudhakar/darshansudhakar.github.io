@@ -62,7 +62,7 @@ const Home = () => {
           <p className="adjust">C# and .NET DEVELOPER</p>
 
           <div className="home__CTA">
-            <Button className="cta" as="a" href={resumeFile}>
+            <Button className="cta" as="a" href={resumeFile} target="__blank">
               My Resume
             </Button>
 
