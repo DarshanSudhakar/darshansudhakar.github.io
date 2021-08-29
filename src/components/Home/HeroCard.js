@@ -31,7 +31,7 @@ function copyToClipboard(str) {
 }
 
 export const CodeCard = () => {
-  const [text, setText] = useState(`new Date().getFullYear() - 1989;`);
+  const [text, setText] = useState(`DateTime.Now.Year - 1989;`);
   const age = new Date().getFullYear() - 1989;
   // trimed down polyfill of String.repeat
   const changeText = () => {
@@ -41,18 +41,24 @@ export const CodeCard = () => {
   return (
     <CodeCardWrapper>
       <pre>
-        1&nbsp;&nbsp;class <b>Person</b> {'{'}
-      </pre>
-      <pre>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; constructor() {'{'}</pre>
-      <pre>
-        3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.name = "<b>Darshan Sudhakar</b>";
+        1&nbsp;&nbsp; public class <b>Person</b> 
       </pre>
       <pre>
-        4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.traits = ["<b>DESIGN</b>", "<b>DEV</b>"];
+        2&nbsp;&nbsp;{'{'}
+      </pre>
+      <pre>3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; private Person() </pre>
+      <pre>
+        4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'{'}
+      </pre>
+      <pre>
+        5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.name = "<b>Darshan Sudhakar</b>";
+      </pre>
+      <pre>
+        6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.skills = ["<b>DESIGN</b>", "<b>DEV</b>" , "<b>Desktop</b>"];
       </pre>
       <pre onClick={changeText}>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.age = {text}</pre>
-      <pre>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
-      <pre>7&nbsp;&nbsp;{'}'}</pre>
+      <pre>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {'}'}</pre>
+      <pre>8&nbsp;&nbsp;{'}'}</pre>
     </CodeCardWrapper>
   );
 };

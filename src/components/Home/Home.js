@@ -10,6 +10,8 @@ import PageHeader from '@common/PageHeader';
 import Flex from '@common/Flex';
 import Button from '@common/Button';
 
+import resumeFile from '../../static/resume/Darshan_sudhakar_resume.pdf'
+
 import { Card, CardIcon, CardText, CardTitle } from '@common/Card';
 
 const ThingsILove = () => (
@@ -20,7 +22,7 @@ const ThingsILove = () => (
       </CardIcon>
       <CardTitle>Front End</CardTitle>
       <CardText>
-        I'm work more on front end technologies like Winforms and WPF.
+        I work more on front end technologies like Winforms and WPF.
       </CardText>
     </Card>
 
@@ -60,8 +62,8 @@ const Home = () => {
           <p className="adjust">C# and .NET DEVELOPER</p>
 
           <div className="home__CTA">
-            <Button className="cta" as="a" href="#">
-              Download Resume
+            <Button className="cta" as="a" href={resumeFile}>
+              My Resume
             </Button>
 
             <div className="home__social">
