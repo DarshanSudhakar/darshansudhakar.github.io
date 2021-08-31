@@ -1,0 +1,752 @@
+{
+	"basics": {
+		"name": "Darshan Sudhakar",
+		"label": "Fidelity National Financials India",
+		"image": "https://avatars.githubusercontent.com/u/8463823?v=4",
+		"email": "darshanraj.shetty@gmail.com",
+		"phone": "9900322573",
+		"url": "https://darshansudhakar.github.io",
+		"summary": "Worked on various .NET applications starting from a single-person project to a team size of 100+ (divided by silos). Also, worked on several proof-of-concept projects needed for a company's sales pitch.\n\nHaving good functional knowledge in the field of Corporate and Investment Banking, Title Insurance, and other financial assets. Extensively worked on the trading application used in Forex, Fixed income, and their derivatives.",
+		"profiles": [
+			{
+				"network": "gitconnected",
+				"username": "DarshanSudhakar",
+				"url": "https://gitconnected.com/DarshanSudhakar"
+			},
+			{
+				"network": "GitHub",
+				"username": "DarshanSudhakar",
+				"url": "https://github.com/DarshanSudhakar"
+			},
+			{
+				"network": "LinkedIn",
+				"url": "https://www.linkedin.com/in/darshanbangaloresudhakar",
+				"username": "darshanbangaloresudhakar"
+			},
+			{
+				"network": "Stack Overflow",
+				"url": "https://stackoverflow.com/",
+				"username": "stackoverflow.com"
+			}
+		],
+		"headline": "Ten years for professional experience in the field of .NET Application development and maintenance",
+		"blog": null,
+		"yearsOfExperience": 10,
+		"username": "DarshanSudhakar",
+		"locationAsString": "India",
+		"region": "India",
+		"picture": null,
+		"website": "https://darshansudhakar.github.io"
+	},
+	"skills": [
+		{
+			"name": ".NET",
+			"level": "Expert",
+			"keywords": [],
+			"rating": 5,
+			"yearsOfExperience": 10
+		},
+		{
+			"name": "C#",
+			"level": "Expert",
+			"keywords": [
+				".NET"
+			],
+			"rating": 5,
+			"yearsOfExperience": 10
+		},
+		{
+			"name": "Winforms",
+			"level": "Advanced",
+			"keywords": [
+				".NET"
+			],
+			"rating": 4,
+			"yearsOfExperience": 8
+		},
+		{
+			"name": "WCF",
+			"level": "Advanced",
+			"keywords": [
+				".NET"
+			],
+			"rating": 4,
+			"yearsOfExperience": 6
+		},
+		{
+			"name": "MSTest",
+			"level": "Advanced",
+			"keywords": [
+				".NET",
+				"UnitTesting"
+			],
+			"rating": 4,
+			"yearsOfExperience": 4
+		},
+		{
+			"name": "L3 Support",
+			"level": "Advanced",
+			"keywords": [],
+			"rating": 4,
+			"yearsOfExperience": 5
+		},
+		{
+			"name": "SQL Server",
+			"level": "Intermediate",
+			"keywords": [
+				"Database"
+			],
+			"rating": 3,
+			"yearsOfExperience": 6
+		},
+		{
+			"name": "Azure Service Fabric",
+			"level": "Beginner",
+			"keywords": [],
+			"rating": 2,
+			"yearsOfExperience": 1
+		},
+		{
+			"name": "Durandal",
+			"level": "Intermediate",
+			"keywords": [
+				"Web"
+			],
+			"rating": 3,
+			"yearsOfExperience": 1
+		},
+		{
+			"name": "SQL Server Analysis Service",
+			"level": "Advanced",
+			"keywords": [
+				"Business Intelligence",
+				"Database",
+				"SQL Server"
+			],
+			"rating": 4,
+			"yearsOfExperience": 3
+		},
+		{
+			"name": "Azure Devops",
+			"level": "Advanced",
+			"keywords": [
+				"Microsoft"
+			],
+			"rating": 4,
+			"yearsOfExperience": 4
+		},
+		{
+			"name": "Javascript",
+			"level": "Intermediate",
+			"keywords": [
+				"Web"
+			],
+			"rating": 3,
+			"yearsOfExperience": 2
+		}
+	],
+	"projects": [
+		{
+			"name": "select-360-integration",
+			"description": "SoftPro 360 is an integrated vendor portal included with SoftPro software. Using SoftPro 360, we can E-record documents, request a lien release, request tax certification, access property information, order checks, forms, and much more.\n\nTeam size: 6\n\nMy contribution\nSafeEscrow\n\tImplemented the strategy pattern to handle multiple functionalities\n\tPrinting of checks and records\n\nWestcor\n\tConsumed Westcor's RESTful API service for issuing CPL and Jacket\n\tCo-ordinated with developers on the vendor side to understand their workflow. \n\nNotarize\n\tCo-ordinated with business to understand requirements\n\tDocumented the RESTful calls using sequence diagram\n\tDocument upload was cloud-based rather than sending a file over the wire. Implementation was the first of its kind and was done to handle large files.\n\nStewart\n\tStewart had a sophisticated API. We had to make back and forth API calls to submit a Jacket request.\nGeneration of controls based on the response API using DataGridView and Table Layouts\n\nClosing Lock\n\tWorked on requirement specification with the Product owner\n\tDocumented the REST API calls using sequence diagrams\n\tProvided a high-level estimation of the product development\n\tWorked with my development team to build commonly used UI components giving rise to a new project called the re-usable components\n\tDelivered project in the stipulated time frame\n\tImplemented unit testing on the core logic\n\nBC Law\n\tWorked on requirement specification and created a T-Shirt sizing template for estimation\n\tWorked on enhancing re-usable component\n\n",
+			"url": "https://www.softprocorp.com/real-estate-software-solutions/softpro-360-data-integration/",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Lead Developer",
+			"startDate": "2020-04-01",
+			"endDate": "2021-07-15",
+			"entity": "",
+			"type": "",
+			"displayName": "Select 360 Integration",
+			"website": "https://www.softprocorp.com/real-estate-software-solutions/softpro-360-data-integration/",
+			"summary": "",
+			"primaryLanguage": "",
+			"languages": [
+				"C#"
+			],
+			"libraries": [
+				"Winforms"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2020,
+				"month": 4,
+				"day": 1
+			},
+			"end": {
+				"year": 2021,
+				"month": 7,
+				"day": 15
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "select-hosted",
+			"description": "Select Hosted is a SaaS offering of SoftPro Select application. Services of Select were broken into microservices and were hosted on a Cloud platform. \n\nTeam size: 7\n\nMy contributions\nMoved Rates services from stand-alone instance to a microservice container\nRates service was hosted on Azure Service Fabric\nImplemented an interface for Select application to access Rates Services\nImplementing a screen to fetch only selected rates from Rates services\n\n",
+			"url": "https://www.softprocorp.com/real-estate-software-solutions/softpro-hosted-software/",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Lead Developer",
+			"startDate": "2019-05-01",
+			"endDate": "2020-03-31",
+			"entity": "",
+			"type": "",
+			"displayName": "SoftPro Select Hosted",
+			"website": "https://www.softprocorp.com/real-estate-software-solutions/softpro-hosted-software/",
+			"summary": "A SaaS version of SoftPro Select",
+			"primaryLanguage": "",
+			"languages": [
+				"C#",
+				"SQL"
+			],
+			"libraries": [
+				"ObjectListView",
+				"NHibernate",
+				"ASP.NET MVC",
+				"Azure Service Fabric",
+				"WCF"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2019,
+				"month": 5,
+				"day": 1
+			},
+			"end": {
+				"year": 2020,
+				"month": 3,
+				"day": 31
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "select-csi",
+			"description": "SoftPro Select manages the entire process from order entry through final title policy and takes advantage of the most robust library of closing, title, and escrow documents in the industry.\n\nThe CSI team, in particular, concentrated on production bug fixes and implementing mid-sized enhancements to existing customers.\n\nTeam size: 18\n\nMy contributions\nL3 support\nPerforming a root cause analysis for a bug\nIdentifying functional drawbacks of a feature by speaking to product owners\nIdentifying technical debts and clarifying non-functional requirements\nEstimating the time needed to fix technical debts by consulting an architect\nBranch management using Git\n \n\n",
+			"url": "https://www.softprocorp.com/real-estate-software-solutions/softpro-select/",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Lead developer",
+			"startDate": "2017-06-01",
+			"endDate": "2018-04-31",
+			"entity": "",
+			"type": "",
+			"displayName": "Softpro Select CSI",
+			"website": "https://www.softprocorp.com/real-estate-software-solutions/softpro-select/",
+			"summary": "A team that manages already released SoftPro Select versions in the market",
+			"primaryLanguage": "",
+			"languages": [
+				"T-SQL",
+				"C#"
+			],
+			"libraries": [
+				"Winforms",
+				"NHibernate",
+				"SQL Server",
+				"Domain Driven Language"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2017,
+				"month": 6,
+				"day": 1
+			},
+			"end": {
+				"year": 2018,
+				"month": 4,
+				"day": 31
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "reports-dashboard",
+			"description": "The SoftPro Select Dashboard is a business intelligence tool to allow users to see production and management level analytics at a glance directly from the ProForm Start Page. With Dashboard, we get simple calendar views, opened/closed order views, and revenue details – all for any reporting periods. The dashboard can also be customized to meet customer's needs.",
+			"url": "https://www.softprocorp.com/real-estate-software-solutions/",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Lead developer",
+			"startDate": "2017-04-01",
+			"endDate": "2017-05-15",
+			"entity": "",
+			"type": "",
+			"displayName": "SoftPro Select Dashboard",
+			"website": "https://www.softprocorp.com/real-estate-software-solutions/",
+			"summary": "A dashboard website that shows analytics of Title and Escrow orders of a company",
+			"primaryLanguage": "",
+			"languages": [
+				"Javascript"
+			],
+			"libraries": [
+				"Angular 2"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2017,
+				"month": 4,
+				"day": 1
+			},
+			"end": {
+				"year": 2017,
+				"month": 5,
+				"day": 15
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "gps-clientportal",
+			"description": "GPS Client Portal is a website used by Fidelity National Financial and its subsidiaries to perform property and title searches.\n\nTeam size: 7\n\nMy contributions\nFixed 400+ bugs in 30 days\nImplemented advance property search using Google Maps API and Bing Maps API\nImplementing the parcel overlay feature\nConsolidating the title search result with using FNF's title search API",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Lead developer UI (Web)",
+			"startDate": "2016-11-01",
+			"endDate": "2017-03-31",
+			"entity": "",
+			"type": "",
+			"displayName": "GPSCP",
+			"website": "",
+			"summary": "A website that perform property and title searches for FNF and its subsidiaries",
+			"primaryLanguage": "",
+			"languages": [
+				"Javascript"
+			],
+			"libraries": [
+				"Bing Maps",
+				"Google Maps API",
+				"Durandal"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2016,
+				"month": 11,
+				"day": 1
+			},
+			"end": {
+				"year": 2017,
+				"month": 3,
+				"day": 31
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "order dashboard",
+			"description": "Select Report Installer is a packaging tool that is used to run SQL and SSRS scripts so that the reporting is ready to be used on the Select database. These reports were later accessed by customers using a web browser or the Select application.",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": [],
+			"startDate": "2016-09-16",
+			"endDate": "2016-10-31",
+			"entity": "",
+			"type": "",
+			"displayName": "Select Report Installer",
+			"website": "",
+			"summary": "Installer for running SSRS reporting scripts",
+			"primaryLanguage": "",
+			"languages": [
+				"C#"
+			],
+			"libraries": [
+				"Wix installer"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2016,
+				"month": 9,
+				"day": 16
+			},
+			"end": {
+				"year": 2016,
+				"month": 10,
+				"day": 31
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "sigma",
+			"description": "Sigma is a Winforms application used by the front office & back office department for booking the spot trade on the Forex market. Sigma maintains and monitors the overall Forex positions of the bank. The application captures all the forex spot trading bookings from upstream and downstream sources. The application generates reports for the back office to monitor Unusual activity and Market abuse behavior daily.\n\nTeam size : 4\n\nMy contribution\nWorked as an individual contributor and performed requirement analysis, designing, and development process of the project\nProvided L3 support and fixing production issues\nReview peers code and give the appropriate comments to maintain the high performance and code quality",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Developer (Winforms)",
+			"startDate": "2015-01-01",
+			"endDate": "2016-09-10",
+			"entity": "",
+			"type": "",
+			"displayName": "SIGMA",
+			"website": "",
+			"summary": "Position aggregator for real time Forex market",
+			"primaryLanguage": "",
+			"languages": [
+				"C#",
+				"SQL"
+			],
+			"libraries": [
+				"Winforms",
+				"SQL Server"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2015,
+				"month": 1,
+				"day": 1
+			},
+			"end": {
+				"year": 2016,
+				"month": 9,
+				"day": 10
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "fco blotter",
+			"description": "FCO Blotter is a trade booking and management application for the Forex(FX) and Fixed income(FI) market. FCO Blotter syncs data from a trading platform called Murex for the middle/back office. It uses an FCOMurex application as an interface. The application manages unique types of products called Deals and Structures through the FCS Blotter. A container of multiple trades is called a Deal, and a container with more than one deal is called a Structure. The trade updates are communicated to all the FCO Blotter client instances through a broadcast server using socket communication.\n\nTeam size : 3\n\nMy contributions\nWorked on FCS Blotter enhancements like adding aggregation of Deals and Structures",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Developer (Winforms)",
+			"startDate": "2015-01-01",
+			"endDate": "2015-05-25",
+			"entity": "",
+			"type": "",
+			"displayName": "FCO Blotter",
+			"website": "",
+			"summary": "FCO Blotter is a trading application used to book Forex and Fixed income trades",
+			"primaryLanguage": "",
+			"languages": [
+				"C#"
+			],
+			"libraries": [
+				"Winforms"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2015,
+				"month": 1,
+				"day": 1
+			},
+			"end": {
+				"year": 2015,
+				"month": 5,
+				"day": 25
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "income attribution cube (ia3)",
+			"description": "IA3 is an application in the P&L department of Societe Generale CIB that explains Profit and loss of the Equities and Fixed income products of the bank. The purpose of P&L Attribution analysis and reporting is to provide users with a coherent breakdown of the drivers of P&L movements between two points in time with reference to a selected number of easily understandable pricing factors.\n\nTeam size : 7\n\nContributions\nBuilt a UI using SilverLight to manipulate reference data",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Developer (SilverLight)",
+			"startDate": "2014-04-01",
+			"endDate": "2014-12-31",
+			"entity": "",
+			"type": "",
+			"displayName": "Income Attribution Cube (IA3)",
+			"website": "",
+			"summary": "Modifying generic reference table using SilverLight",
+			"primaryLanguage": "",
+			"languages": [
+				"C#",
+				"XAML"
+			],
+			"libraries": [
+				".NET",
+				"Silverlight"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2014,
+				"month": 4,
+				"day": 1
+			},
+			"end": {
+				"year": 2014,
+				"month": 12,
+				"day": 31
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "business activity monitoring",
+			"description": "BAM is an extensive and highly complex networked & distributed real-time system used by Societe Generale. BAM monitors FX, FI, FX Options, and FX Orders executed by traders. The system gets data from various sources of trade and consolidates it into reports. The front office/middle office team uses these reports to monitor traders' performances.\n\nMy Contributions:\n•\tImplementation of blotter for products like FX Options and FX Orders\n•\tAlert generation screen for FI, FX Option, and FX orders\n•\tImplementation of  OLAP cube for real-time and historically recorded data\n•\tDeveloping an interface using Devexpress controls on the BAM client-side to view OLAP Pivot data and its corresponding charting\n•\tCode quality adhering to standards of SQUALE and SONAR\n•\tFixing production issues\n•\tApplication side Jenkins (Continuous Integration tool for .NET projects) support",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Developer (Winforms)",
+			"startDate": "2011-08-01",
+			"endDate": "2014-03-31",
+			"entity": "",
+			"type": "",
+			"displayName": "Business Activity Monitoring (BAM)",
+			"website": "",
+			"summary": "Application that monitors Forex, Fixed Income and related derivative",
+			"primaryLanguage": "",
+			"languages": [
+				"C#",
+				"DevExpress"
+			],
+			"libraries": [
+				"Jenkins",
+				"Winforms",
+				"Sonar"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2011,
+				"month": 8,
+				"day": 1
+			},
+			"end": {
+				"year": 2014,
+				"month": 3,
+				"day": 31
+			},
+			"images": [],
+			"videos": []
+		},
+		{
+			"name": "bam-gps",
+			"description": "GPS acts as a server to multiple clients (even BAM). It stores data obtained from various platforms and consolidates to one location. Real-time systems like BAM and MIS (Management Information Systems) get aggregated data from GPS to track market trends. GPS also publishes few SSRS reports. Several downstream platforms use these reports. The GPS also monitors internal market activity and raises alerts. By using highly customizable user alerts, we can keep track of the activities of traders ranging from a minute to few years.\n\nTeam size : 8-10\n\nMy contributions:\nReal-time alerts – Alarm generation tool to enhance monitoring for FI, FX Options and FX Orders market for the real-time data\nHistoric alerts – Alarm generation tool that uses old non-real-time data to capture milestones on FX, FI, and FX Options market\nMIS for FI products was used in the traders' tool to analyze intraday market trends.\nCapturing the real-time feeds for FX Orders\nAutocomplete feature for searching old historic data(FX, FI, and FX Options)s.\n\n\n\n",
+			"url": "",
+			"highlights": [],
+			"keywords": [],
+			"roles": "Developer",
+			"startDate": "2011-08-01",
+			"endDate": "2014-04-30",
+			"entity": "",
+			"type": "",
+			"displayName": "Global Platform Supervision (GPS)",
+			"website": "",
+			"summary": "A service used to capture Forex and Fixed Income feeds",
+			"primaryLanguage": "",
+			"languages": [
+				"C#"
+			],
+			"libraries": [
+				".NET",
+				"SSAS",
+				"SSRS",
+				"SQL Server"
+			],
+			"githubUrl": "",
+			"repositoryUrl": "",
+			"start": {
+				"year": 2011,
+				"month": 8,
+				"day": 1
+			},
+			"end": {
+				"year": 2014,
+				"month": 4,
+				"day": 30
+			},
+			"images": [],
+			"videos": []
+		}
+	],
+	"work": [
+		{
+			"name": "FNF India Pvt. Ltd.",
+			"location": "Bangalore",
+			"description": "",
+			"position": "Tech Lead",
+			"url": "",
+			"startDate": "2016-09-01",
+			"endDate": "",
+			"summary": "",
+			"highlights": [
+				"Helped in migrating Rates services from a Client-Server model to a Cloud-based lift and shift",
+				"Implemented a microservice that hits individual atomic instances of a lift-shift Rates service"
+			],
+			"isCurrentRole": true,
+			"start": {
+				"year": 2016,
+				"month": 9
+			},
+			"end": {},
+			"company": "FNF India Pvt. Ltd.",
+			"website": ""
+		},
+		{
+			"name": "Capco Technologies",
+			"location": "Bangalore",
+			"description": "",
+			"position": "Consultant 2",
+			"url": "",
+			"startDate": "2015-01-01",
+			"endDate": "2016-09-01",
+			"summary": "",
+			"highlights": [],
+			"isCurrentRole": false,
+			"start": {
+				"year": 2015,
+				"month": 1
+			},
+			"end": {
+				"year": 2016,
+				"month": 9
+			},
+			"company": "Capco Technologies",
+			"website": ""
+		},
+		{
+			"name": "Societe Generale GSC",
+			"location": "Bangalore",
+			"description": "",
+			"position": "Software Engineer",
+			"url": "",
+			"startDate": "2011-08-01",
+			"endDate": "2014-12-01",
+			"summary": "",
+			"highlights": [],
+			"isCurrentRole": false,
+			"start": {
+				"year": 2011,
+				"month": 8
+			},
+			"end": {
+				"year": 2014,
+				"month": 12
+			},
+			"company": "Societe Generale GSC",
+			"website": ""
+		}
+	],
+	"education": [
+		{
+			"institution": "BMS Institute of Technology",
+			"url": "",
+			"area": "Computer Science",
+			"studyType": "Bachelor of Engineering",
+			"startDate": "2007-07-01",
+			"endDate": "2011-06-01",
+			"score": "",
+			"courses": [],
+			"description": "",
+			"activities": "",
+			"start": {
+				"year": 2007,
+				"month": 7
+			},
+			"end": {
+				"year": 2011,
+				"month": 6
+			},
+			"website": "",
+			"gpa": ""
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "FOSS Forum",
+			"position": "College co-ordinator",
+			"url": "",
+			"startDate": "2009-08-01",
+			"endDate": "2011-05-01",
+			"summary": "Organized a basic course on Open source technologies with a beginner course on GIMP and OpenSuse operating system",
+			"highlights": [
+				"This was first hands-on session that had more than 20 students participating"
+			],
+			"location": "Bangalore",
+			"start": {
+				"year": 2009,
+				"month": 8
+			},
+			"end": {
+				"year": 2011,
+				"month": 5
+			},
+			"website": ""
+		}
+	],
+	"awards": [
+		{
+			"title": "Distinguished Alumni Award",
+			"date": "2020-02-01",
+			"awarder": "BMS Institute of Technology and Management",
+			"summary": "Awarded for delivering technical talks like 'Software engineering using Azure DevOps' and non-technical talks like 'Make money before calling yourself an Entrepreneur'",
+			"fullDate": {
+				"year": 2020,
+				"month": 2
+			}
+		},
+		{
+			"title": "Extra Miler Award",
+			"date": "2016-02-01",
+			"awarder": "Capco Technologies",
+			"summary": "Implementing the automation test cases for a SQL stored procedure that is used to as a backend data for reports",
+			"fullDate": {
+				"year": 2016,
+				"month": 2
+			}
+		},
+		{
+			"title": "Spot Award",
+			"date": "2011-11-01",
+			"awarder": "Societe Generale GSC",
+			"summary": "This award was given in the very first quarter where I fixed multiple production bugs in my first project. ",
+			"fullDate": {
+				"year": 2011,
+				"month": 11
+			}
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "Fluent"
+		},
+		{
+			"language": "Hindi",
+			"fluency": "Fluent"
+		},
+		{
+			"language": "Kannada",
+			"fluency": "Fluent"
+		}
+	],
+	"interests": [
+		{
+			"name": "Artificial Intelligence",
+			"keywords": []
+		},
+		{
+			"name": "Machine Learning",
+			"keywords": []
+		},
+		{
+			"name": "React + Gatsby",
+			"keywords": [
+				"Facebook Open Source"
+			]
+		}
+	],
+	"references": [],
+	"certificates": [],
+	"meta": {
+		"note": "This is a combined version of the old and new JSON Resume API to provide maximum compatibility. You will notice duplicated values in different fields.",
+		"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+		"version": "v1.0.0",
+		"lastModified": "2020-12-29T15:53:00"
+	}
+}

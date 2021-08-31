@@ -17,7 +17,7 @@ export const Intro = styled.section`
 
     a.cta {
       display: block;
-      margin: 30px 0;
+      margin: 30px 0px;
     }
 
     @media ${props => props.theme.media.tablet} {
@@ -44,6 +44,16 @@ export const Intro = styled.section`
   .home__CTA {
     width: max-content;
   }
+
+  .home__resume {
+    width: max-content;
+    display: flex;
+  }
+
+  .home__resumeSeperator {
+    margin: 30px 15px;
+  }
+
   .home__social {
     color: ${props => props.theme.primaryColor};
     display: flex;
