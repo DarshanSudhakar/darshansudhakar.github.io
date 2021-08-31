@@ -10,7 +10,7 @@ import PageHeader from '@common/PageHeader';
 import Flex from '@common/Flex';
 import Button from '@common/Button';
 
-import resumeFile from '../../static/resume/Darshan_sudhakar_resume.pdf'
+import resumePdfFile from '../../static/resume/Darshan_sudhakar_resume.pdf'
 
 import { Card, CardIcon, CardText, CardTitle } from '@common/Card';
 
@@ -62,9 +62,17 @@ const Home = () => {
           <p className="adjust">C# and .NET DEVELOPER</p>
 
           <div className="home__CTA">
-            <Button className="cta" as="a" href={resumeFile} target="__blank">
-              My Resume
-            </Button>
+            <div className="home__resume">
+              <Button className="cta" as="a" href={resumePdfFile} target="__blank" >
+                PDF Resume
+              </Button>
+
+              <div className="home__resumeSeperator"></div>
+
+              <Button className="cta" as="a" href="https://gitconnected.com/v1/portfolio/darshansudhakar" target="__blank">
+                JSON Resume
+              </Button>
+            </div>
 
             <div className="home__social">
               <IconLink
