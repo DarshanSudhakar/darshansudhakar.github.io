@@ -30,7 +30,7 @@ const Footer = () => (
     <Wrapper>
       <img width="35px" src={logo} alt="Darshan Sudhakar" />
       <p style={{ float: 'right' }}>
-        Website template by 
+        Credits: Site template by 
         <a href="https://github.com/anuraghazra" target="__blank">
           &nbsp;Anurag Hazra.
         </a>
