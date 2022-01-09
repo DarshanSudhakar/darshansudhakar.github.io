@@ -1,9 +1,11 @@
 ---
 title: Git - Getting started
-date: 2020-04-29 18:39:00
+date: 2020-04-14 18:39:00
 author: Darshan Sudhakar
 tags: ['Git', 'Source control']
 ---
+
+Simple and easy steps to understand Git for first timers. 
 
 ## What is Git?
 Is a Distributed Version Control System. In simple words you use Git to checkin code. 
