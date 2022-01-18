@@ -44,8 +44,8 @@ const About = () => {
         </Quote>
         <Quote>
           <p>
-            “In carpentry there is a rule. Measure twice, cut once
-            Similarly, in coding we gotta think more than twice before we code"
+            “In carpentry there is a rule. Measure twice, cut once.
+            Similarly, in coding we gotta think twice before we code"
           </p>
         </Quote>
       </Flex>
