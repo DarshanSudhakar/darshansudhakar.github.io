@@ -25,7 +25,7 @@ Below is the aproach that has worked for me
 
 Things to do before you start
 
-1. Watch highest watched video on Git for 5-10 minutes on YouTube
+1. Watch highest watched video on Git for 5-10 minutes on YouTube or read [this Atlassian beginners guide](https://www.atlassian.com/git/tutorials/what-is-version-control){:target="_blank"}
 2. Open git [cheat sheet](https://github.github.com/training-kit/){:target="_blank"}
 3. Download any Git GUI client application like Fork or Sourcetree and just play with it.
 
@@ -40,9 +40,7 @@ Git packages also come with IDEs like Visual Studio or VS Code. So you can use G
 
 ## Personal Opinion
 
-Once you learn Git you do not feel like switching to a different source control tool. In Git branch and merging is so damn fast. Long ago when we I was using SVN we had se had a dedicated team that did branching and merging every iterations.
-
-So enjoy your journey in the world of source control with Git!
+Once you learn Git you do not feel like switching to a different source control tool. In Git branch and merging is so damn fast. Long ago when we were using SVN; we had a dedicated team that did branching and merging every iterations. Now with Git all those days of struggle is gone.
 
 ### Other tools worthy of a mention
 
