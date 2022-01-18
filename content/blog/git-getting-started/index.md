@@ -34,6 +34,8 @@ This ends the basic of Git. If you are somebody who want to start a new college 
 1. Here is an important step. To visualize what is happening with each command, use the repo visualization tool [Ungit](https://github.com/FredrikNoren/ungit){:target="_blank"}. There is a nice [video](https://youtu.be/hkBVAi3oKvo){:target="_blank"}  about Ungit. Try using the commands that you have learnt here.
 2. Branching is the most important concept of Git. Branching can be visualized using the branch [visualization online tool](https://learngitbranching.js.org/){:target="_blank"}. Go ahead and play here for few minutes (You may skip this if you feel you are confident of using Git)
 
+!.[Learn Git branching](./images/learn-git-branching.png)
+
 Git packages also come with IDEs like Visual Studio or VS Code. So you can use Git directly inside these IDEs as well.
 
 ## Personal Opinion
