@@ -43,7 +43,7 @@ Things to do before you start
 Try creating a branch from Visual Studio Code. Refer any Youtube video to do this
 2. Here is an important step. We need visualize what is happening with each command. So we use the repo visualization tool [Ungit](https://github.com/FredrikNoren/ungit){:target="_blank"}. There is a nice [video](https://youtu.be/hkBVAi3oKvo){:target="_blank"}  about Ungit.
 3. There is an extension for Ungit in Visual studio. Install and it and see the magic. It visualizes Git operations. Now try creating a new branch and merge it in Visual Studio.
-4. Open git [cheat sheet](https://github.github.com/training-kit/){:target="_blank"}
+4. Now open git [cheat sheet](https://github.github.com/training-kit/){:target="_blank"} and try to understand the commands
 
 !.[Learn Git branching](./images/learn-git-branching.png)
 
