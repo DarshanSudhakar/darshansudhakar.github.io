@@ -7,9 +7,11 @@ tags: ['Git', 'Source control']
 
 Here is a simple way to understand Git for first-timers.
 
-Learning Git is easy when Git is your first version control tool. But it becomes a little difficult for somebody who is already aware of other version control tools like SVN, Perforce, or TFS. Why? We feel we need to unlearn and re-learn something. And this is always a pain.
+Learning Git is easy when Git is your first version control tool. But it becomes a little difficult for somebody who is already aware of other version control tools like SVN, Perforce, or TFS.
 
-So, in this blog, I will suggest some tricks, tools, and tips through which you can understand Git. By following this blog you need not unlearn anything. You just have to learn a new thing. So half of your problem is now solved.
+Why is that it is difficult to understand Git? This because Git totally inverts the way we handle branches. Now you need to unlearn and re-learn this new thing. And I know it is a little painful!:syringe:
+
+The intension of this blog is to make this journey a little painless.
 
 ## So what is Git?
 
@@ -29,7 +31,7 @@ We start with commands while learn Git. Git commands are great. However, it is n
 
 Even [XKCD](https://xkcd.com/) has commented how difficult (yet amazing) the product is.
 
-!.[Difficult and amazing Git](./images/xkcd-git.png)
+![Difficult and amazing Git](./images/xkcd-git.png)
 
 ## So how do we go about learning Git
 
@@ -40,12 +42,12 @@ Below is the aproach that has worked for me
 Things to do before you start
 
 1. Install Visual Studio Code and create a Github repository (You can also use BitBicket, Azure Devops or any other source control site)
-Try creating a branch from Visual Studio Code. Refer any Youtube video to do this
-2. Here is an important step. We need visualize what is happening with each command. So we use the repo visualization tool [Ungit](https://github.com/FredrikNoren/ungit){:target="_blank"}. There is a nice [video](https://youtu.be/hkBVAi3oKvo){:target="_blank"}  about Ungit.
-3. There is an extension for Ungit in Visual studio. Install and it and see the magic. It visualizes Git operations. Now try creating a new branch and merge it in Visual Studio.
-4. Now open git [cheat sheet](https://github.github.com/training-kit/){:target="_blank"} and try to understand the commands
+2. Try creating a branch from Visual Studio Code. Refer any Youtube video to do this
+3. Here is an important step. We need visualize what is happening with each command. So we use the repo visualization tool [Ungit](https://github.com/FredrikNoren/ungit){:target="_blank"}. There is a nice [video](https://youtu.be/hkBVAi3oKvo){:target="_blank"}  about Ungit.
+4. There is an extension for Ungit in Visual Studio Code. Install and see the magic. It visualizes Git operations. Now try creating a new branch and merge it into main branch using Visual Studio Code.
+5. Now open git [cheat sheet](https://github.github.com/training-kit/){:target="_blank"} and try to understand the commands
 
-!.[Learn Git branching](./images/learn-git-branching.png)
+![Learn Git branching](./images/learn-git-branching.png)
 
 Git packages also come with IDEs like Visual Studio or VS Code. So you can use Git directly inside these IDEs as well.
 
