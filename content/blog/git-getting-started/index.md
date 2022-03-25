@@ -2,20 +2,22 @@
 title: Git - Getting started
 date: 2020-04-14 18:39:00
 author: Darshan Sudhakar
-tags: ['Git', 'Source control']
+tags: ['Git', 'Source control', 'Ungit']
 ---
 
 Here is a simple way to understand Git for first-timers.
 
 Learning Git is easy when Git is your first version control tool. But it becomes a little difficult for somebody who is already aware of other version control tools like SVN, Perforce, or TFS.
 
-Why is that it is difficult to understand Git? This because Git totally inverts the way we handle branches. Now you need to unlearn and re-learn this new thing. And I know it is a little painful!:syringe:
+Why is that it is difficult to understand Git? This because Git totally inverts the way we handle branches. Now you need to unlearn and re-learn this new thing. And, I know it is a little painful :syringe:
 
 The intension of this blog is to make this journey a little painless.
 
 ## So what is Git?
 
-Is a Distributed Version Control System. In simple words you use Git to checkin code. However, you can use Git to store other digital information. Other than code I also use Git to save eBooks, Notes, PDFs, sketch notes and sometimes even data (For AI & ML)
+It is a Distributed Version Control System. Or, in simple words you use Git to checkin code.
+
+However, Git can also be used to store other digital information. I use Git to store eBooks, Notes, PDFs, sketch notes and sometimes even data (For AI & ML)
 
 ## Why Git? Why not continue to use the others?
 
