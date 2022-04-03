@@ -51,7 +51,7 @@ function Contact() {
               name="name"
               type="text"
               required
-              placeholder="John Doe"
+              placeholder="Your Name"
             />
           </label>
           <label className="label__message">
