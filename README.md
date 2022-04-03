@@ -13,7 +13,7 @@
 
 Strained eyes? There's DarkMode too :stuck_out_tongue_winking_eye:
 
-*NOTE: If you are using this site as a template for your own portfolio site, I would be very glad if you add a link to the original site with my name in footer*
+*NOTE: If you are using this site as a template for your own portfolio site, I would be very glad if you add a link to the original site with Anurag Hazra's (https://anuraghazra.dev/) name in footer*
 
 ## :rocket: Quick start
 

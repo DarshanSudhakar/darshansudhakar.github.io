@@ -5,23 +5,27 @@ author: Darshan Sudhakar
 tags: ['SOLID', 'Refactor', 'Software Design']
 ---
 
-Here we are in the middle of Covid lock downs. My work load is a little high as we do not know what future has it for us.
+This incident happened a few years ago.
 
-There is some negativity in the world but this did not deter me from following the annual ritual of not preparing for interviews. I follow this small ritual where I try to attend some interviews to test my knowledge. However, with lockdowns there is currently a shortage of interviews.
+There are few habits that help a lot in your career. I have one such habit of attending some interviews to test my knowledge. However, I wanted to be a little prepared.
 
-This should not deter me from studying so I told myself why not revisit SOLID principles. As I code in C# I wanted to brush my knowledge.
+This is how I prepare myself. If you are giving interview for the position of Software Engineer then study as if you are giving an interview for Senior Software Engineer. This time I wanted to study for a Tech Lead position.
 
-The first thing I did was to Google. Read some articles and felt very good.
+Let me brush my knowledge on SOLID principles. It would be a great way to brush your knowledge. However, the word 'great ways' is very much debatable. And, I dont want to get into that debate.
 
-However, I was not able to re-collect it after a couple of weeks. Why? This question triggered me  a lot. To be frank it made me a bit nervous. I knew human memory was volatile but this learning turned out to be very volatile.
+For me SOLID principles were important. Why? Because, most of my interview questions were on SOLID principles. :stuck_out_tongue_closed_eyes:
 
-I wanted an easy way to remember SOLID principles. So, I started digging materials regarding this. Like
+The first thing I did was to search using search engines. The results were mostly articles in Code project and some blogs.
 
-- Watching some video on SOLID principles
-- and going through Pluralsight course on these
+However, even after religiously reading this for one full day. I was not able to re-collect after a couple of weeks. Turned out that I was growing old and my memory had become more volatile.
 
-This time I was able to remember for a month. Thats a 100% progress but it was not upto the mark. This turned out to be the least remembered subject in my entire life.
+Now, I switched to videos. Like
 
-Now the question was  - "Whats making this subject so difficult to retain?". It is too tough or I am I studying this in a wrong way. There were times when I have easily managed to learn complex algorithms like the Bellmann-Ford algorithm, Merge sort etc. This were complicated in the begining however I have (or had) mastered them in many programming languages. Why is that I am failing now?
+- SOLID principles on Youtube
+- Going through some blogs and medium articles
 
-The answer to this lies in Part 2 of this continued blog post.
+Now I was able to remember for a month. I was proud that I was able to remember the concepts for twice the amount of time. This was turning out to be the least remembered subject in my entire life.
+
+Now the question was  - "What is making this subject so difficult to retain?". It is too tough or I am I studying this in a wrong way. There were times when I have easily managed to learn complicated algorithms at ease. So, what happened now?
+
+Post contd in Part 2

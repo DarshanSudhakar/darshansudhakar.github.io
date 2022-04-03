@@ -32,12 +32,12 @@ const Footer = () => (
       <p style={{ float: 'right' }}>
         &nbsp;Made with love and
         <a href="https://gatsbyjs.org" target="__blank">
-          &nbsp;gatsby&nbsp;
+          &nbsp;Gatsby.&nbsp;
         </a>
-        {/* by
-        <a href="https://github.com/DarshanSudhakar" target="__blank">
-          &nbsp;me
-        </a> */}
+        Project forked from
+        <a href="https://anuraghazra.dev/" target="__blank">
+          &nbsp;Anurag Hazra&nbsp;
+        </a>
       </p>
     </Wrapper>
   </FooterWrapper>
