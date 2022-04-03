@@ -26,7 +26,7 @@ function Contact() {
         </LeftContent>
         <ContactForm
           noValidate
-          action="https://formspree.io/test@gmail.com"
+          action="https://formspree.io/f/xrgjajbp"
           method="POST"
         >
           <label className="label__email">
