@@ -31,7 +31,7 @@ The organisation wanted to be more agile so they had to introduce Git. Git hardl
 
 We start with commands while learn Git. Git commands are great. However, it is not the best way to understand Git.
 
-Even [XKCD](https://xkcd.com/) has commented how difficult (yet amazing) the product is.
+Even [XKCD](https://xkcd.com/) has commented on how difficult (yet amazing) the product is.
 
 ![Difficult and amazing Git](./images/xkcd-git.png)
 
@@ -55,7 +55,7 @@ Git packages also come with IDEs like Visual Studio or VS Code. So you can use G
 
 ## Final opinion
 
-Once I learned Git. I did not feel like switching to another source control tool.
+It took me some time to learn and understand the nuances of Git. But by using this method I retained what I learned for a really long time. This indeed is very important.
 
 ### Other tools worthy of a mention
 
@@ -65,5 +65,6 @@ Once I learned Git. I did not feel like switching to another source control tool
 
 ## References
 
-Google trends - <https://trends.google.com/trends/explore?date=all&geo=US&q=git,svn>
-<https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn>
+- [Google trends](https://trends.google.com/trends/explore?date=all&geo=US&q=git,svn)
+- [Stack exchange](https://softwareengineering.stackexchange.com/questions/136079/are-there-any-statistics-that-show-the-popularity-of-git-versus-svn)
+- [XKCD](https://xkcd.com/)

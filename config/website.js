@@ -1,8 +1,8 @@
 const meta = {
   // Metadata
-  siteTitle: 'Darshan Sudhakar - Desktop Developer',
+  siteTitle: 'Darshan Sudhakar - Problem solver | Developer | Voracious reader',
   siteDescription:
-    'Darshan Sudhakar - Creative frontEnd web developer who loves javascript and modern web technologies.',
+    'Darshan Sudhakar - Developer by passion and everything else by curiosity',
   siteTitleAlt: 'Darshan Sudhakar',
   siteShortName: 'Darshan Sudhakar',
   siteUrl: 'https://darshansudhakar.github.io', // No trailing slash!
