@@ -7,15 +7,33 @@ tags: ['SOLID', 'Refactor', 'Software Design']
 
 This incident happened a few years ago.
 
-There are few habits that help a lot in your career. I have one such habit of attending some interviews to test my knowledge. However, I wanted to be a little prepared.
+There are few habits that help a lot in your career. I have one such habit of attending some interviews to test my knowledge. However, I wanted to be a little prepared. And, I follow certain thumbrules.
 
-This is how I prepare myself. If you are giving interview for the position of Software Engineer then study as if you are giving an interview for Senior Software Engineer. This time I wanted to study for a Tech Lead position.
+ If you are giving interview for the position of Software Engineer then study as if you are giving an interview for Senior Software Engineer. This time I wanted to study for a Lead position.
 
-Let me brush my knowledge on SOLID principles. It would be a great way to brush your knowledge. However, the word 'great ways' is very much debatable. And, I dont want to get into that debate.
+ Now, what is the top 3 things that a lead does. Let me rephrase the question. What exactly are the things my lead does?
 
-For me SOLID principles were important. Why? Because, most of my interview questions were on SOLID principles. :stuck_out_tongue_closed_eyes:
+ 1. He manages the manager :smile:
+ 2. Does code review
+ 3. Identifies the problem pretty early
 
-The first thing I did was to search using search engines. The results were mostly articles in Code project and some blogs.
+ And, how is he able to do all these. Because he is pretty experienced in that *particular project*.
+ 
+ So, does this mean if you spend more time in the project you will become a better lead.
+
+Probably, Yes... Because, the lead would have learned the entire ecosystem.
+
+Ok, fair enough. How is that I can learn the nuances of the Tech lead without actually being in a project for so long? Moreover, when I give interviews it is always that I will not be knowing about the projects where I will work. So, I got to find a short cut.
+
+So how do you find a shortcut?
+
+The shortcut for examinations taken in college is by solving more and more old question papers. So at office we can use similar technique by attending more and more interviews.
+
+Most of my interview questions were on SOLID principles. :stuck_out_tongue_closed_eyes:
+
+SOLID principles are considered important. However, the word *'important'* is very much debatable. And, I dont want to get into that debate.
+
+The first thing I did; was to search using search engines. The results were mostly articles in Code project and some blogs.
 
 However, even after religiously reading this for one full day. I was not able to re-collect after a couple of weeks. Turned out that I was growing old and my memory had become more volatile.
 
