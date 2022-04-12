@@ -72,6 +72,7 @@ function Contact() {
             as="button"
             type="submit"
             value="send"
+            title = "Please click on this submit button once the form is filled"
           >
             <FontAwesomeIcon icon="paper-plane" /> Submit
           </Button>
