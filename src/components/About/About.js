@@ -16,7 +16,7 @@ const About = () => {
       <SkewBg />
       <AboutInfo>
         <div>
-          <Avatar src="hfest_avatar_2.jpg" />
+          <Avatar src="Darshan_profile.jpeg" />
         </div>
         <p>
           Hi, I am Darshan Sudhakar, a passionate C# and .NET developer
