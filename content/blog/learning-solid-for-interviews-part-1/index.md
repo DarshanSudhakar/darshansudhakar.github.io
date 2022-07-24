@@ -5,45 +5,37 @@ author: Darshan Sudhakar
 tags: ['SOLID', 'Refactor', 'Software Design']
 ---
 
-This incident happened a few years ago.
-
 There are few habits that help a lot in your career. I have one such habit of attending some interviews to test my knowledge. However, I wanted to be a little prepared. And, I follow certain thumbrules.
 
- If you are giving interview for the position of Software Engineer then study as if you are giving an interview for Senior Software Engineer. This time I wanted to study for a Lead position.
+If you are giving interview for the position of Software Engineer then study as if you are giving an interview for Senior Software Engineer. If you are looking of a Senior Software Engineer then study as if you are giving an interview for Tech Lead. So, each time you prepare for an interview we gotta target just one level higher.
 
- Now, what is the top 3 things that a lead does. Let me rephrase the question. What exactly are the things my lead does?
+So, now, what could be the questions that a company could ask in a lead interview? It is very difficult to guess there are no standard questions. Having a syallbus with standard questionaires works in college. In college, we rely on the old question papers to train ourselves. But, in the industry there isn't a single answer to a problem. We will have to come up with multiple different solutions and pick the best one.
 
- 1. He manages the manager :smile:
- 2. Does code review
- 3. Identifies the problem pretty early
+So, a better way to tackle this problem would be to understand how a lead would work on a daily, monthly and a yearly bases. What exactly he does? There isn't a straight forward answers to these questions. However, below are some of the basic tasks a lead does.
 
- And, how is he able to do all these. Because he is pretty experienced in that *particular project*.
- 
- So, does this mean if you spend more time in the project you will become a better lead.
+### Daily
 
-Probably, Yes... Because, the lead would have learned the entire ecosystem.
+- Help the team when they are stuck
+- Does code review to check if the coding standards were followed
 
-Ok, fair enough. How is that I can learn the nuances of the Tech lead without actually being in a project for so long? Moreover, when I give interviews it is always that I will not be knowing about the projects where I will work. So, I got to find a short cut.
+### Monthly
 
-So how do you find a shortcut?
+- Anticipates the trouble that a developer could undergo while implementing the feature and prepares him to face the same
+- Boosts the morale of the team by making them take individual decisions
+- Helping team mates excel at work
 
-The shortcut for examinations taken in college is by solving more and more old question papers. So at office we can use similar technique by attending more and more interviews.
+### Yearly
 
-Most of my interview questions were on SOLID principles. :stuck_out_tongue_closed_eyes:
+- Bridges the gap between his team and the managers (Both technical and people) :smile:
 
-SOLID principles are considered important. However, the word *'important'* is very much debatable. And, I dont want to get into that debate.
+In most companies a Lead does his part of coding first and then does some of the above mentioned activities. There would be additional time allocated to the lead to perform his lead activities. A lead in most cases is a person who would have stayed in that particular project ecosystem for years. He would know which source code file to check and change when there is a bug. However, a new person would take couple of hours to search and confirm the source code file. So, with these constraints it is a bit challenging to even think of (not doing) the additional task a lead does.
 
-The first thing I did; was to search using search engines. The results were mostly articles in Code project and some blogs.
+Now, this is the challenge and we have to overcome it. And, how do we do that. In my yester years I followed one technique. We have our performance evaluations twice a year. This is a common practise across the globe. If I have worked on a complicated feature the previous week/sprint/iteration. I will check with my manager a get some light weighted work like fixing minor bugs or addressing a low priority support tickets. By doing this I would save some time only on coding and I used to extra time to do the lead activity.
 
-However, even after religiously reading this for one full day. I was not able to re-collect after a couple of weeks. Turned out that I was growing old and my memory had become more volatile.
+Lets say somebody sends a code review via a pull request to my lead. I used check that to see if all the standardizations were followed and make a note of it. And, when my lead performs his actual code review I would compare my review with his.
 
-Now, I switched to videos. Like
+LIke this we would need to strike a balance between work and leadership. However, this is easier said than done. And the first thing we gotta do is to start.
 
-- SOLID principles on Youtube
-- Going through some blogs and medium articles
+In parallel, I also used to attend more and more interviews. The first few would be literally harassment. Now what happened in those interviews will be continued in Part 2 of this series.
 
-Now I was able to remember for a month. I was proud that I was able to remember the concepts for twice the amount of time. This was turning out to be the least remembered subject in my entire life.
-
-Now the question was  - "What is making this subject so difficult to retain?". It is too tough or I am I studying this in a wrong way. There were times when I have easily managed to learn complicated algorithms at ease. So, what happened now?
-
-Post contd in Part 2
+In part 2 we will be speaking more about SOLID principles.

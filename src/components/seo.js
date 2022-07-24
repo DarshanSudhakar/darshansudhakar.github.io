@@ -38,7 +38,7 @@ function SEO({ title, description, slug, isBlogPost }) {
   if (isBlogPost) {
     title = title + ' | Darshan Sudhakar';
   }
-  // console.log({ url, title, description, twitter, ogimage, imageWidth, imageHeight })
+  //console.log({ url, title, description, twitter, ogimage, imageWidth, imageHeight })
   return (
     <Helmet>
       {/* General tags */}
