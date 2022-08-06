@@ -4,12 +4,11 @@
     <h2 align="center">Darshan Sudhakar</h2>
   </a>
 </p> 
-<p align="center">Winforms and Web Developer</p>
+<p align="center">Full Stack .NET Developer</p>
 
 [![Build Status](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io.svg?branch=develop)](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io)
 ![GitHub](https://img.shields.io/github/license/darshansudhakar/darshansudhakar.github.io)
-![Website]()
-
+![Website](https://darshansudhakar.github.io/)
 
 Strained eyes? There's DarkMode too :stuck_out_tongue_winking_eye:
 
@@ -23,7 +22,7 @@ _NOTE: The default branch for this repo is `develop`, when you push or pull make
 
 ### Step 1: Clone The Repo
 
-Fork the repository. then clone the repo locally by doing -
+Fork the repository. Then clone the repo locally by doing -
 
 ```bash
 git clone https://github.com/darshansudhakar/darshansudhakar.github.io.git

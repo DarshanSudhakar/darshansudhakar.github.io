@@ -1,4 +1,2 @@
-gatsby 
-
 There was time when developers were evaluated based on the lines of code they write. However, the lines of code is a thing of past and a developer now think if an additional lines that he is adding is really need or not. Developers are expected to write small and concise code. A code which can be easily understood.
 
