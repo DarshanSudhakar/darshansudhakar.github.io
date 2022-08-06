@@ -22,7 +22,7 @@ _NOTE: The default branch for this repo is `develop`, when you push or pull make
 
 ### Step 1: Clone The Repo
 
-Fork the repository. then clone the repo locally by doing -
+Fork the repository. Then clone the repo locally by doing -
 
 ```bash
 git clone https://github.com/darshansudhakar/darshansudhakar.github.io.git
