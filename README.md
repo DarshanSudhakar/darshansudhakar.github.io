@@ -8,8 +8,7 @@
 
 [![Build Status](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io.svg?branch=develop)](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io)
 ![GitHub](https://img.shields.io/github/license/darshansudhakar/darshansudhakar.github.io)
-![Website]()
-
+![Website](https://darshansudhakar.github.io/)
 
 Strained eyes? There's DarkMode too :stuck_out_tongue_winking_eye:
 
