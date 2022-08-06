@@ -1,10 +1,16 @@
 ---
-title: Git - Getting started
+title: SQL cheat sheet
 date: 2022-08-06 10:29:00
 author: Darshan Sudhakar
 tags: ['SQL', 'Data science']
 ---
-An beutiful cheat sheet for SQL. Thank you [Swapna Kumar Panda](https://swapnakpanda.hashnode.dev/) ([@swapnakpanda](https://twitter.com/swapnakpanda))
+An beautiful SQL cheat sheet for
+
+- a quick reference while troubleshooting PROD issues
+- an interview prep
+- and much more
+
+Thank you [Swapna Kumar Panda](https://swapnakpanda.hashnode.dev/) ([@swapnakpanda](https://twitter.com/swapnakpanda)) for sharing with
 
 ![Cheat sheet](./images/SQL-cheat-sheet.jfif)
 
