@@ -4,7 +4,7 @@
     <h2 align="center">Darshan Sudhakar</h2>
   </a>
 </p> 
-<p align="center">Winforms and Web Developer</p>
+<p align="center">Full Stack .NET Developer</p>
 
 [![Build Status](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io.svg?branch=develop)](https://travis-ci.com/DarshanSudhakar/darshansudhakar.github.io)
 ![GitHub](https://img.shields.io/github/license/darshansudhakar/darshansudhakar.github.io)
