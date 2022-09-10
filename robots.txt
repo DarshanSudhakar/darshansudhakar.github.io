@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /goodies
+Sitemap: https://darshansudhakar.github.io/sitemap.xml
+Host: https://darshansudhakar.github.io
