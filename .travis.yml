@@ -11,7 +11,7 @@ addons:
     sources:
       - deadsnakes
     packages:
-      - python3.10.5
+      - python3.10
 
 cache:
   # cache both npm modules and Cypress binary
