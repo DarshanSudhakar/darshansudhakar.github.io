@@ -17,11 +17,11 @@ describe('App', () => {
     cy.findByLabelText('toggle theme')
       .click()
       .should(() => {
-        expect(localStorage.getItem('anuraghazra-theme')).to.eq('dark');
+        expect(localStorage.getItem('darshansudhakar-theme')).to.eq('dark');
       })
       .click()
       .should(() => {
-        expect(localStorage.getItem('anuraghazra-theme')).to.eq('light');
+        expect(localStorage.getItem('darshansudhakar-theme')).to.eq('light');
       });
   });
 
@@ -41,15 +41,15 @@ describe('App', () => {
   });
 
   it('should navigate to blog', () => {
-    const editGithubUrl = `https://github.com/anuraghazra/anuraghazra.github.io/tree/develop/content/blog/exciting-new-features-in-javascript/index.md`;
+    const editGithubUrl = `https://github.com/darshansudhakar/darshansudhakar.github.io/tree/develop/content/blog/git-getting-started/index.md`;
     cy.findByText(/blog/i, { selector: 'a' })
       .click()
       .findByText(/Random post/i)
       .findByText(/Tags/i);
 
-    cy.findByText(/Exciting New Features In Javascript/i, { selector: 'h2' })
+    cy.findByText(/Git - Getting started/i, { selector: 'h2' })
       .click()
-      .findByText(/Exciting New Features In Javascript/i, { selector: 'h1' })
+      .findByText(/Git - Getting started/i, { selector: 'h1' })
       .findByText(/Share on/i)
       .findByText(/Edit post on GitHub/i, { selector: 'a' })
       .should('have.attr', 'href', editGithubUrl);
