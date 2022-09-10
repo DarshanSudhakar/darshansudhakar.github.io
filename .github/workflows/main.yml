@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - private/darshan/fixing-vulnerabilities-24-jul-2022
+      - develop
 
 jobs:
   cypress-run:
