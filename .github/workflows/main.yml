@@ -34,8 +34,7 @@ jobs:
       - name: Deploy to Gitpages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
-          publish_branch: develop
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
       - name: Archive videos
