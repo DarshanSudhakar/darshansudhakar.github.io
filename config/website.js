@@ -19,7 +19,7 @@ const website = {
   ...social,
   // TODO : darshan Add google analytics
   disqusShortName: '',
-  googleAnalyticsID: '',
+  googleAnalyticsID: '236859929',
   // Manifest
   themeColor: '#6D83F2',
   backgroundColor: '#6D83F2',

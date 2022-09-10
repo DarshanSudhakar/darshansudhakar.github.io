@@ -72,7 +72,7 @@ function Contact() {
             as="button"
             type="submit"
             value="send"
-            title = "Please click on this submit button once the form is filled"
+            title = "Please fill the above form before clicking the Submit button"
           >
             <FontAwesomeIcon icon="paper-plane" /> Submit
           </Button>

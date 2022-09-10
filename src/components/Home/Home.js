@@ -59,7 +59,7 @@ const Home = () => {
         <div className="home__text">
           <p>Hello, I’m</p>
           <h1>Darshan Sudhakar</h1>
-          <p className="adjust">A full stack .NET DEVELOPER</p>
+          <p className="adjust">Full stack .NET DEVELOPER</p>
 
           <div className="home__CTA">
             <div className="home__resume">
