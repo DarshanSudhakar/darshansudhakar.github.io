@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - develop
+      - private/darshan/fixing-vulnerabilities-24-jul-2022
 
 jobs:
   build-deploy:
