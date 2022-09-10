@@ -4,13 +4,13 @@ date: 2022-08-06 10:29:00
 author: Darshan Sudhakar
 tags: ['SQL', 'Data science']
 ---
-An beautiful SQL cheat sheet for
+An SQL cheat sheet for
 
 - a quick reference while troubleshooting PROD issues
 - an interview prep
 - and much more
 
-Thank you [Swapna Kumar Panda](https://swapnakpanda.hashnode.dev/) ([@swapnakpanda](https://twitter.com/swapnakpanda)) for sharing with
+Thank you [Swapna Kumar Panda](https://swapnakpanda.hashnode.dev/) ([@swapnakpanda](https://twitter.com/swapnakpanda)) for sharing
 
 ![Cheat sheet](./images/SQL-cheat-sheet.jfif)
 
