@@ -6,26 +6,40 @@ on:
       - private/darshan/fixing-vulnerabilities-24-jul-2022
 
 jobs:
-  build-deploy:
+  cypress-run:
     runs-on: ubuntu-latest
+    name: Test And Deploy
     steps:
-      - uses: actions/checkout@master
-        name: "Checkout source code"
+      - name: "Checkout source code"
+        uses: actions/checkout@v2
 
-      - name: setup node
-        uses: actions/setup-node@v3.4.1
+      - name: Cache dependencies
+        uses: actions/cache@v2
         with:
-          node-version: "16.16"
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
-      - name: install
-        run: npm install
+      - name: Cypress run
+        uses: cypress-io/github-action@v2
+        with:
+          start: npm run develop
+          wait-on-timeout: 400
+          wait-on: 'http://localhost:8000'
 
-      - name: build
+      - name: Build site
         run: npm run build
 
       - name: Deploy to Gitpages
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
           personal_token: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
-          publish_branch: gh-pages
+          publish_branch: private/darshan/fixing-vulnerabilities-24-jul-2022
           publish_dir: ./public
+
+      - name: Archive videos
+        uses: actions/upload-artifact@v2
+        with:
+          name: cypress-test-records
+          path: cypress/videos
