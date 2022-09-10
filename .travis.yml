@@ -11,12 +11,13 @@ addons:
 
 cache:
   # cache both npm modules and Cypress binary
-  directories:
-    - ~/.npm
-    - ~/.cache
-  override:
-    - npm ci
-    - npm run cy:verify
+  # directories:
+  #   - ~/.npm
+  #   - ~/.cache
+  # override:
+  #   - npm ci
+  #   - npm run cy:verify
+  npm: false
 
 install:
   - npm ci
