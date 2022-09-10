@@ -26,6 +26,6 @@ jobs:
       - name: Deploy to Gitpages
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
-          PERSONAL_TOKEN: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: ./public
+          personal_token: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
