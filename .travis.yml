@@ -8,6 +8,8 @@ addons:
   apt:
     packages:
       - libgconf-2-4
+    packages:
+      - python3.10.5
 
 cache:
   # cache both npm modules and Cypress binary
