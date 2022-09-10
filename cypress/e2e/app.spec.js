@@ -24,22 +24,7 @@ describe('App', () => {
         expect(localStorage.getItem('darshansudhakar-theme')).to.eq('light');
       });
   });
-
-  it('should navigate to sections', () => {
-    scrollLinks();
-  });
-
-  it('should navigate to sections in mobile', () => {
-    cy.viewport('iphone-3');
-
-    cy.get('button[class*="NavMobilestyle__FloatingButton-"]')
-      .click({ force: true })
-      .findByText(/home/i, { selector: 'a' })
-      .should('be.visible');
-
-    scrollLinks();
-  });
-
+  
   it('should navigate to blog', () => {
     const editGithubUrl = `https://github.com/darshansudhakar/darshansudhakar.github.io/tree/develop/content/blog/git-getting-started/index.md`;
     cy.findByText(/blog/i, { selector: 'a' })
