@@ -23,9 +23,9 @@ jobs:
       - name: build
         run: npm run build
 
-      - name: deploy
+      - name: Deploy to Gitpages
         uses: peaceiris/actions-gh-pages@v2.4.0
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
