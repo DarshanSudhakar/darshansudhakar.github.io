@@ -8,10 +8,6 @@ addons:
   apt:
     packages:
       - libgconf-2-4
-    sources:
-      - deadsnakes
-    packages:
-      - python3.10
 
 cache:
   # cache both npm modules and Cypress binary
@@ -21,6 +17,9 @@ cache:
   override:
     - npm ci
     - npm run cy:verify
+
+before_script:
+  - pyenv global 3.6
 
 install:
   - npm ci
