@@ -22,7 +22,7 @@ function Contact() {
         <LeftContent>
           <FontAwesomeIcon size={'5x'} icon="handshake" />
           <h3>Thank You</h3>
-          <p>Do You Have Any Queries?</p>
+          <p>Please contact me for any queries?</p>
         </LeftContent>
         <ContactForm
           noValidate
@@ -72,7 +72,7 @@ function Contact() {
             as="button"
             type="submit"
             value="send"
-            title = "Please click on this submit button once the form is filled"
+            title = "Please fill the above form before clicking the Submit button"
           >
             <FontAwesomeIcon icon="paper-plane" /> Submit
           </Button>

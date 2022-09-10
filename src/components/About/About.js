@@ -21,14 +21,14 @@ const About = () => {
         <p>
           Hi, I am Darshan Sudhakar, a passionate C# and .NET developer
           from India, currently working at{' '}
-          <a className="about__link" href="https://fnfindia.co.in/">
-          fnfindia.co.in
+          <a className="about__link" href="https://www.jllt.com/">
+          JLL Technologies
           </a>{' '}
-          as a Winforms developer.
+          as a Full Stack .NET developer.
           <br />
           <br />
           My core focus is on solving technical problem using .NET and C#.
-          It give me great pleasure helping college passout to understand industry best practices.
+          It give me great pleasure helping my fellow mates understand the process of software building and industry best practices.
         </p>
       </AboutInfo>
 
