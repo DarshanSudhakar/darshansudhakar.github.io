@@ -54,12 +54,13 @@ const WordClouds = () => {
       <p style={{ top: 0, left: 0, fontSize: 18 }}>Azure Devops</p>
       <p style={{ top: 200, left: -60, fontSize: 14 }}>SSAS</p>
       <p style={{ top: '30%', left: '25%', fontSize: 25 }}>Unit testing</p>
-      <p style={{ top: 40, left: '75%', fontSize: 12 }}>Durandal</p>
+      <p style={{ top: 40, left: '60%', fontSize: 12 }}>Durandal</p>
       <p style={{ top: 380, left: '85%', fontSize: 18 }}>React + Gatsby</p>
       <p style={{ top: 320, left: '65%', fontSize: 18 }}>Javascript</p>
-      <p style={{ top: 350, left: 150, fontSize: 20 }}>REST</p>
-      <p style={{ top: 120, left: '22%', fontSize: 12 }}>Winforms</p>
-      <p style={{ top: 320, left: '35%', fontSize: 12 }}>Microservice</p>
+      <p style={{ top: 350, left: 150, fontSize: 20 }}>Web API</p>
+      <p style={{ top: 25, left: '75%', fontSize: 18 }}>Winforms and WPF</p>
+      <p style={{ top: 320, left: '35%', fontSize: 12 }}>Microservices</p>
+      <p style={{ top: 280, left: '92%', fontSize: 18 }}>ASP.NET Core</p>
     </Parallax>
   );
 };

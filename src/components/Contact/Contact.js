@@ -22,7 +22,7 @@ function Contact() {
         <LeftContent>
           <FontAwesomeIcon size={'5x'} icon="handshake" />
           <h3>Thank You</h3>
-          <p>Do You Have Any Queries?</p>
+          <p>Please contact me for any queries?</p>
         </LeftContent>
         <ContactForm
           noValidate
