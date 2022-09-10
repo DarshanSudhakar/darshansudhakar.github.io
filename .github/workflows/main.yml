@@ -34,7 +34,7 @@ jobs:
       - name: Deploy to Gitpages
         uses: peaceiris/actions-gh-pages@v3.7.3
         with:
-          personal_token: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
+          github_token: ${{ secrets.PORTFOLIO_PAGE_TOKEN }}
           publish_branch: private/darshan/fixing-vulnerabilities-24-jul-2022
           publish_dir: ./public
 
