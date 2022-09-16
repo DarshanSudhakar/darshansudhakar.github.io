@@ -40,21 +40,21 @@ We need to understand Git theoritically first. Below is the aproach that had wor
 
 Things to do before you start
 
-1. Install Visual Studio Code and create a Github repository (You can also use BitBicket, Azure Devops or any other source control site)
-2. Try creating a branch from Visual Studio Code. Refer any Youtube video to do this
-3. Here is an important step. We need visualize what is happening with each command. So we use the repo visualization tool [Ungit](https://github.com/FredrikNoren/ungit). There is a nice [video](https://youtu.be/hkBVAi3oKvo) about Ungit.
-4. Ungit has an extension in Visual Studio Code. Install the extension and see the magic. It visualizes Git operations. The next step would be to try creating a new branch and merging it into main branch using Visual Studio Code.
-5. Now open git [cheat sheet](https://github.github.com/training-kit/) and try to understand the commands
+1. Watch any Git video on YouTube. There are good ones like from [this](https://youtu.be/IHaTbJPdB-s?t=527)
+2. Install Visual Studio Code and create a Github repository (You can also use other repository like BitBicket, Azure Devops or any other)
+3. Try creating a branch from Visual Studio Code.
+4. What if you could visualize what is actually happening with each Git command. Sounds interesting na!! Here comes the Git new visualization tool [Ungit](https://github.com/FredrikNoren/ungit). to understand Ungit please watch this [video](https://youtu.be/hkBVAi3oKvo).
+5. Ungit has an extension in Visual Studio Code. Install the extension and see the magic.
+6. The next step would be to try creating a new branch and merging it into main branch using Visual Studio Code.
+7. Now open git [cheat sheet](https://github.github.com/training-kit/) and try to reading more about each commands
 
-By following the above steps you would have now become a master of the Git ecosystem. However, we have know how Git branching and merging works. More importantly we gotta visualize how branching and merging happens in Git. This can be easily done by using [Learn Git Branching](https://learngitbranching.js.org/) tool. All you have to do is to play around with this tool. 
+By following the above steps you would have a decent amount of knowledge on Git. However, to progress further we have know how Git branching and merging works. More importantly we gotta visualize how branching and merging happens in Git. This can be easily done by using [Learn Git Branching](https://learngitbranching.js.org/) tool. All you have to do is to play around with this tool. 
 
 ![Learn Git branching](./images/learn-git-branching.png)
 
-IDEs like Visual Studio or VS Code have Git software built into them. So you can use Git directly inside these IDEs as well.
-
 ## Final opinion
 
-It took me some time to learn and understand the basic elements of Git. But by using the above method I retained what I learned for a really long time. This indeed helped me show off in front of my manager.
+It took me some time to learn and understand the basic elements of Git. But by using the above method I retained what I learned for a really long time. This helped me train my collegues at office.
 
 ### Other tools worthy of a mention
 
