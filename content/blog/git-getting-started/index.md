@@ -8,7 +8,7 @@ tags: ['Git', 'Source control', 'Ungit']
 
 Git is not that complicated as it seems to be. It is just like driving a motorcycle for the first time. We would sweat the crap out on day 1. By the time we reach day 10 its like walking in a park. 
 
-Learning Git is easy when Git is our first source control tool. Now, you might be thinking what is this source control tool. Source control tool is a common place where we save all our source code. Tomorrow when a new developer joins the project. He can access all source control tool at one place. Some examples of source control tools are Git, TFS, SVN and Perforce (Dont worry about these names now. But, make sure you memorize these names later to show off in front of your boss :wink:)
+Learning Git is easy when Git is our first source control tool. Now, you might be thinking what is this source control tool. Source control tool is a common place where we save all our source code. Tomorrow when a new developer joins the project. He/She can access all source control tool at one place. Some examples of source control tools are Git, TFS, SVN and Perforce (Dont worry about these names now. But, make sure you memorize these names later to show off in front of your boss :wink:)
 
 If you are somebody who is already aware of other source control tools like SVN, Perforce, or TFS. It sometimes becomes tough to understand Git. Why? Because, you gotta unlearn the old ways and re-learn this new thing. I agree it is a little painful :syringe: ; felt the same when I had to learn Git.
 
