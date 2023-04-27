@@ -14,4 +14,4 @@ Thank you [Swapna Kumar Panda](https://swapnakpanda.hashnode.dev/) ([@swapnakpan
 
 ![Cheat sheet](./images/SQL-cheat-sheet.jfif)
 
-[Click here](https://github.com/swapnakpanda/Infographics/blob/main/Cheat%20Sheet/Database/SQL_CheatSheet.png) for a better quality image
+Download the high resolution cheat sheet [here](https://github.com/swapnakpanda/Infographics/blob/main/Cheat%20Sheet/Database/SQL_CheatSheet.png)
