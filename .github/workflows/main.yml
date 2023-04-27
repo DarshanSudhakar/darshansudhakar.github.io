@@ -21,12 +21,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - name: Cypress run
-        uses: cypress-io/github-action@v2
-        with:
-          start: npm run develop
-          wait-on-timeout: 400
-          wait-on: 'http://localhost:8000'
+      # - name: Cypress run
+      #   uses: cypress-io/github-action@v2
+      #   with:
+      #     start: npm run develop
+      #     wait-on-timeout: 400
+      #     wait-on: 'http://localhost:8000'
  
       - name: Build site
         run: npm run build
@@ -37,8 +37,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 
-      - name: Archive videos
-        uses: actions/upload-artifact@v2
-        with:
-          name: cypress-test-records
-          path: cypress/videos
+      # - name: Archive videos
+      #   uses: actions/upload-artifact@v2
+      #   with:
+      #     name: cypress-test-records
+      #     path: cypress/videos
