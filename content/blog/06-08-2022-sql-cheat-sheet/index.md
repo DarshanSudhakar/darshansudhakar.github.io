@@ -6,7 +6,7 @@ tags: ['SQL', 'Data science', 'Cheat sheet']
 ---
 An SQL cheat sheet for
 
-- a quick reference while troubleshooting PROD issues
+- a quick reference guide
 - an interview prep
 - and much more
 
@@ -14,4 +14,4 @@ Thank you [Swapna Kumar Panda](https://swapnakpanda.hashnode.dev/) ([@swapnakpan
 
 ![Cheat sheet](./images/SQL-cheat-sheet.jfif)
 
-[Here](https://github.com/swapnakpanda/Infographics/blob/main/Cheat%20Sheet/Database/SQL_CheatSheet.png) is the better resolution one
+[Click here](https://github.com/swapnakpanda/Infographics/blob/main/Cheat%20Sheet/Database/SQL_CheatSheet.png) for a better quality image
