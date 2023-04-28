@@ -16,7 +16,7 @@ const BlogLayout = ({ children, sharerSection }) => {
       aside={
         <>
           <section>
-            <h4>Random post</h4>
+            <h4>You may also like</h4>
             <Link style={{ fontSize: '16px' }} to={randomSlug}>
               {randomTitle}
             </Link>
