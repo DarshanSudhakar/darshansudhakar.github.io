@@ -29,7 +29,7 @@ describe('App', () => {
     const editGithubUrl = `https://github.com/darshansudhakar/darshansudhakar.github.io/tree/develop/content/blog/git-getting-started/index.md`;
     cy.findByText(/blog/i, { selector: 'a' })
       .click()
-      .findByText(/Random post/i)
+      .findByText(/You may also like/i)
       .findByText(/Tags/i);
 
     cy.findByText(/Git - Getting started/i, { selector: 'h2' })

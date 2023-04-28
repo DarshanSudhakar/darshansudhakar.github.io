@@ -1,5 +1,5 @@
 ---
-title: SOLID principles just for the sake of .NET interviews (Part 1)
+title: SOLID principles for .NET interviews (Part 1)
 date: 2020-05-11 18:39:00
 author: Darshan Sudhakar
 tags: ['SOLID', 'Refactor', 'Software Design']
